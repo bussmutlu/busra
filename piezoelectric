@@ -1,0 +1,10 @@
+timer tick()
+int sayi=0
+if(vin>vmmp)
+d=d+0.4
+else
+d=d-0.4
+delay(10)
+sayi++
+if(sayi==tb)
+timer stop
